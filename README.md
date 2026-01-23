@@ -3,7 +3,7 @@
 ### 📄 Overview
 This project analyzes survey data from over 600 data professionals to understand trends in **salary, job satisfaction, and work-life balance** across different industries and countries.
 
-![Dashboard Preview](dashboard_screenshot.png)
+![Dashboard Preview](https://github.com/sazzygideon/data-professional-survey-analysis/blob/4a5759e7551dd72eb33d36fb36dc05fb4df2d833/dashboard_screenshot.PNG)
 
 ### ❓ Business Problem
 The goal was to answer key questions for aspiring data professionals:
